@@ -20,10 +20,6 @@ To submit the completed assignment:
 5. Commit and push the changes to the branch.
 6. Open a Pull Request (PR) to merge the branch into the main repository.
 
-## Sample Document
-Refer to the sample document named [klean-landing-page.pdf](klean-landing-page.pdf) for image resources to be used in the design.
-
-
 ## Evaluation Criteria
 Evaluation will be based on:
 - Clarity and completeness of institute information.
